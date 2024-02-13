@@ -29,11 +29,5 @@ This project is designed to enhance real-time image processing applications by p
 ### Configuration
 Customize `configuration.py` to adjust detection sensitivity and other settings, optimizing the system for your specific use case.
 
-### Contributing
-Contributions are welcome to enhance detection algorithms, expand features, or improve efficiency. Please submit pull requests or open issues for discussion.
-
-### License
-Specify the project's license, outlining how others may use or contribute to the code.
-
 ## Conclusion
 The Aruco Code Detection and Localization project is a cutting-edge solution for applications requiring precise spatial positioning. Its robust architecture and advanced features make it an invaluable tool for augmented reality, spatial analysis, and beyond.
